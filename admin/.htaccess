@@ -1,0 +1,5 @@
+AuthUserfile "C:\HTPASS\.htpasswd"
+AuthName "PETAR`S AREA"
+AuthType Basic
+
+Require user petar
